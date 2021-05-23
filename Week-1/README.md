@@ -10,14 +10,13 @@ Even though most of our work would be on GUI (Graphical User Interface), it is a
 - <https://youtu.be/5XgBd6rjuDQ>
 
 ### - Git and Github
-For the assignments, we would expect you to fork this github repository and push your assignments solutions for the evaluation. In case you are not familiar with git or github, install git from [here](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git). Other useful learning resources are:
+For the assignments, we would expect you to fork this github repository and push your assignments solutions for the evaluation. In case you are not familiar with git or github, install git from [here](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git). Very basic feel of git and github can be reduced to a google drive of codes, but there is MUCH more to that. Some awesome learning resources are:
 
 - [Git & GitHub Crash Course For Beginners](https://www.youtube.com/watch?v=SWYqp7iY_Tc)
 - [Git Explained in 100 Seconds](https://www.youtube.com/watch?v=hwP7WQkmECE)
+- [Basic Git Analogy for Contributing to Open Source Project](https://medium.com/@thesagarsehgal/basic-git-analogy-for-contributing-to-open-source-project-8c314789326e)
 
-
-
-### - Python3.x (*recommended x>=7*) 🐍
+### - Python3.x (*recommended x >= 7*) 🐍
 As discussed in the introductory session, we will be using python as the programming language for our tasks, chosing it over others due to its user-friendly syntax and learning curve, vast support of libraries and a huge community support among programmers.
 
 <img src="assets/meme1.jpeg">
@@ -44,6 +43,8 @@ or directly launch from the Anaconda Navigator.
 pip install jupyter
 jupyter notebook  
 ```
+
+Head over to the link you see in the terminal and go through this [link](https://www.dataquest.io/blog/jupyter-notebook-tutorial/) to get familiar with the interface and features of Jupyter Notebook.
 
 ## 2. Resources
 
