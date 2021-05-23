@@ -27,6 +27,13 @@ Setting up any programming language in general is a two-step process; downloadin
 - Windows: <https://phoenixnap.com/kb/how-to-install-python-3-windows>
 - Mac: <https://flaviocopes.com/python-installation-macos/>
 
+Get familiar with the syntax of the language, and other basic things such as data types, conditionals, loops, functions and file handling from resources here:
+
+- <https://www.w3schools.com/python/>
+- <https://www.tutorialspoint.com/python/index.htm>
+
+Try to follow one of the links sincerely and use other for reference help. Main goal right now here is to grasp the understanding of different aspects of the language in breadth, rather than going into depth.
+
 
 ### - Jupyter Notebook
 
@@ -44,14 +51,9 @@ pip install jupyter
 jupyter notebook  
 ```
 
-Head over to the link you see in the terminal and go through this [link](https://www.dataquest.io/blog/jupyter-notebook-tutorial/) to get familiar with the interface and features of Jupyter Notebook.
-
-## 2. Resources
-
-Soon to be updated
+Head over to the link you see in the terminal and go through this [link](https://www.dataquest.io/blog/jupyter-notebook-tutorial/) to get familiar with the interface and features of Jupyter Notebook. You can also check out the Jupyter cheat sheet [here](assets/Jupyter_Notebook_Cheat_Sheet.pdf).
 
 
-## 3. Assignment
+## 2. Assignment
 
 Soon to be updated
-
