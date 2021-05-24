@@ -10,7 +10,7 @@ Even though most of our work would be on GUI (Graphical User Interface), it is a
 - <https://youtu.be/5XgBd6rjuDQ>
 
 ### - Git and Github
-For the assignments, we would expect you to fork this github repository and push your assignments solutions for the evaluation. In case you are not familiar with git or github, install git from [here](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git). Very basic feel of git and github can be reduced to a google drive of codes, but there is MUCH more to that. Some awesome learning resources are:
+For the assignments, we would expect you to make a github repository to keep your work and assignments' solutions and submit the link for the same via a google form, which would soon be floated. So in case you are not familiar with git or github, install git from [here](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git). Very basic feel of git and github can be reduced to a google drive of codes, but there is MUCH more to that. Some awesome learning resources are:
 
 - [Git & GitHub Crash Course For Beginners](https://www.youtube.com/watch?v=SWYqp7iY_Tc)
 - [Git Explained in 100 Seconds](https://www.youtube.com/watch?v=hwP7WQkmECE)
