@@ -7,7 +7,7 @@
 3. [Numpy](#numpy)
 4. [Pandas](#pandas)
 5. [Matplotlib](#matplotlib)
-6. [Assignment ](#assignment)
+6. [Assignment](#assignment)
 
 ## Setup ⚙️
 
