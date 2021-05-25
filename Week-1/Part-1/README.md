@@ -1,6 +1,9 @@
-# Week 1
+# Week 1 : Part 1
 
-## 1. Setup
+1. [Setup](#setup)
+2. [Resources and Assignments](#resources-and-assignments)
+
+## 1. Setup ⚙️
 
 As we set forth to the *Project: Computational Astrophysics*, let us setup our development environment for all the incoming work. Clearing the air beforehand, there is no restriction on your choice of Operaring System for the same. The setup mainly comprises of
 
@@ -54,6 +57,10 @@ jupyter notebook
 Head over to the link you see in the terminal and go through this [link](https://www.dataquest.io/blog/jupyter-notebook-tutorial/) to get familiar with the interface and features of Jupyter Notebook. You can also check out the Jupyter cheat sheet [here](assets/Jupyter_Notebook_Cheat_Sheet.pdf).
 
 
-## 2. Assignment
+## 2. Resources and Assignments 📚
 
-Soon to be updated
+Find `python_basics.ipynb` file in the directory.
+
+It covers some conceptual practice, followed by an assignment at the last.
+
+### Adios! 👋
