@@ -1,9 +1,15 @@
-# Week 1 : Part 1
+# Week 1
+
+## Table Of Contents
 
 1. [Setup](#setup)
 2. [Resources and Assignments](#resources-and-assignments)
+3. [Numpy](#numpy)
+4. [Pandas](#pandas)
+5. [Matplotlib](#matplotlib)
+6. [Assignment ](#assignment)
 
-## 1. Setup ⚙️
+## Setup ⚙️
 
 As we set forth to the *Project: Computational Astrophysics*, let us setup our development environment for all the incoming work. Clearing the air beforehand, there is no restriction on your choice of Operaring System for the same. The setup mainly comprises of
 
@@ -30,13 +36,6 @@ Setting up any programming language in general is a two-step process; downloadin
 - Windows: <https://phoenixnap.com/kb/how-to-install-python-3-windows>
 - Mac: <https://flaviocopes.com/python-installation-macos/>
 
-Get familiar with the syntax of the language, and other basic things such as data types, conditionals, loops, functions and file handling from resources here:
-
-- <https://www.w3schools.com/python/>
-- <https://www.tutorialspoint.com/python/index.htm>
-
-Try to follow one of the links sincerely and use other for reference help. Main goal right now here is to grasp the understanding of different aspects of the language in breadth, rather than going into depth.
-
 
 ### - Jupyter Notebook
 
@@ -57,10 +56,50 @@ jupyter notebook
 Head over to the link you see in the terminal and go through this [link](https://www.dataquest.io/blog/jupyter-notebook-tutorial/) to get familiar with the interface and features of Jupyter Notebook. You can also check out the Jupyter cheat sheet [here](assets/Jupyter_Notebook_Cheat_Sheet.pdf).
 
 
-## 2. Resources and Assignments 📚
+## Python Basics 📚
 
-Find `python_basics.ipynb` file in the directory.
+Get familiar with the syntax of the language, and other basic things such as data types, conditionals, loops, functions and file handling from resources here:
 
-It covers some conceptual practice, followed by an assignment at the last.
+- <https://www.w3schools.com/python/>
+- <https://www.tutorialspoint.com/python/index.htm>
+
+Try to follow one of the links sincerely and use other for reference help. Main goal right now here is to grasp the understanding of different aspects of the language in breadth, rather than going into depth.
+
+Find `python_basics.ipynb` file in the directory. It covers some conceptual practice questions and revision for basic python.
+
+
+## Numpy (*Numerical Python*) ⌛
+
+Heavy computational works require dealing with multi-dimensional arrays and matrix data structures. Python lists, in all their brilliance, lack in speed and make them unfit for such tasks. 
+
+<p float="left">
+<img src="assets/meme2.jpg" width="350">
+<img src="assets/meme3.jpg" width="350">
+</p>
+
+That's when NumPy, a Python library comes into picture. It has functions for working in domain of linear algebra, fourier transform, and matrices. Some of the learning resources are:
+
+- To start learning and working with a software or a library, it is a very good habit to go through its official documentation first. A documentation is most accurate and would guide you the best in case you encounter bugs: https://numpy.org/devdocs/user/quickstart.html
+
+- A natural question: [NumPy — Why is it so fast?](https://medium.com/swlh/numpy-why-is-it-so-fast-8087f4da4d79)
+
+- I would highly recommend implement the code snippets in this blog in your notebook: [How Fast Numpy Really is and Why?](https://towardsdatascience.com/how-fast-numpy-really-is-e9111df44347)
+
+- There COULD NOT be anything better than [100 NumPy exercises](https://www.kaggle.com/utsav15/100-numpy-exercises) to get that sense of superiority in NumPy. This kaggle link provides you with the answers. you may go through them and read, but the BEST approach is to write that down yourself. 100 exercises can be overwhelming, hence I have selectively added 10 questions in `Numpy.ipynb` file in the directory for you to code yourself.
+
+## Pandas (*Python Data Analysis Library*) 🐼
+
+TBU
+
+## Matplotlib 📈
+
+<https://matplotlib.org/users/pyplot_tutorial.html>
+
+## Assignment 📝
+
+Soon 🚧
+
 
 ### Adios! 👋
+
+
