@@ -21,7 +21,7 @@ That's when NumPy, a Python library comes into picture. It has functions for wor
 
 - I would highly recommend implement the code snippets in this blog in your notebook: [How Fast Numpy Really is and Why?](https://towardsdatascience.com/how-fast-numpy-really-is-e9111df44347)
 
-- There COULD NOT be anything better than [100 NumPy exercises](https://www.kaggle.com/utsav15/100-numpy-exercises) to get that sense of superiority in NumPy. This kaggle link provides you with the answers. you may go through them and read, but the BEST approach is to write that down yourself. Hence I have added `100-Numpy-exercises.ipynb` file in the directory for you to code yourself.
+- There COULD NOT be anything better than [100 NumPy exercises](https://www.kaggle.com/utsav15/100-numpy-exercises) to get that sense of superiority and mastery in NumPy. This kaggle link provides you with the answers. you may go through them and read, but the BEST approach is to write that down yourself. Hence I have added `100-Numpy-exercises.ipynb` file in the directory for you to code yourself.
 
 ## 2. Pandas (*Python Data Analysis Library*) 🐼
 
