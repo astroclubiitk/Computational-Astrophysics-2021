@@ -103,7 +103,14 @@ The most commonly used plotting library in python. Really easy to use and offers
 
 ## Assignment 📝
 
-Soon 🚧
+Find the assignment for Week-1 in `Assignment` folder. Make sure you able to see the following files in it:
+
+```
+.
+├── Assignment.ipynb
+├── Beehive_data.csv
+└── galaxies.csv
+```
 
 
 ### Adios! 👋
