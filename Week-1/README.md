@@ -2,10 +2,10 @@
 
 ## Table Of Contents
 
-1. [Setup](#setup-)
+1. [Setup](#setup-%EF%B8%8F)
 2. [Python Basics](#python-basics-)
 3. [Numpy](#numpy-numerical-python-)
-4. [Pandas](#pandas-python-data-analysis-library)
+4. [Pandas](#pandas-python-data-analysis-library-)
 5. [Matplotlib](#matplotlib-)
 6. [Assignment](#assignment-)
 
