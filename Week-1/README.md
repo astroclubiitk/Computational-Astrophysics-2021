@@ -89,13 +89,13 @@ That's when NumPy, a Python library comes into picture. It has functions for wor
 
 ## Pandas (*Python Data Analysis Library*) 🐼
 
-<p float="centre">
-<img src="assets/Meme4.jpg" width="500">
+<p align="center">
+<img src="assets/Meme4.jpg" width="350">
 </p>
 
-Pandas is a python library which makes it really easy to analyse tabular data. A good and brief video to start learning Pandas would be: https://www.youtube.com/watch?v=dcqPhpY7tWk&t=137 and then you can attempt the notebook. The notebook is mostly self-explanatory and concise but you may use https://pandas.pydata.org/docs/user_guide/index.html to learn more functions that will come in handy. 
+Pandas is a python library which makes it really easy to analyse tabular data. A good and brief video to start learning Pandas would be: https://www.youtube.com/watch?v=dcqPhpY7tWk&t=137 and then afterwards you can start attempting the notebook. The notebook is mostly self-explanatory and concise but you may use https://pandas.pydata.org/docs/user_guide/index.html to learn more functions that will come in handy. 
 
-Do not worry if you are unable to master Pandas on your first attempt since it might be slightly difficult for beginners. It will become easier with practise. Focus on the other 2 libraries first. 
+Do not worry if you are unable to master Pandas on your first attempt since it might be slightly difficult for beginners. It will become easier with practice. Focus on the other 2 libraries first. 
 
 ## Matplotlib 📈
 
