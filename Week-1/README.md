@@ -2,12 +2,12 @@
 
 ## Table Of Contents
 
-1. [Setup](##setup)
-2. [Resources and Assignments](##resources-and-assignments)
-3. [Numpy](##numpy)
-4. [Pandas](##pandas)
-5. [Matplotlib](##matplotlib)
-6. [Assignment](##assignment)
+1. [Setup](#setup-⚙️)
+2. [Python Basics](#python-basics-📚)
+3. [Numpy](#numpy-numerical-python-⌛)
+4. [Pandas](#pandas-python-data-analysis-library-🐼)
+5. [Matplotlib](#matplotlib-📈)
+6. [Assignment](#assignment-📝)
 
 ## Setup ⚙️
 
