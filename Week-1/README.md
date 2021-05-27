@@ -90,7 +90,7 @@ That's when NumPy, a Python library comes into picture. It has functions for wor
 ## Pandas (*Python Data Analysis Library*) 🐼
 
 <p align="center">
-<img src="assets/Meme4.jpg" width="350">
+<img src="assets/meme4.jpg" width="400">
 </p>
 
 Pandas is a python library which makes it really easy to analyse tabular data. A good and brief video to start learning Pandas would be: https://www.youtube.com/watch?v=dcqPhpY7tWk and then afterwards you can start attempting the notebook. The notebook is mostly self-explanatory and concise but you may use https://pandas.pydata.org/docs/user_guide/index.html to learn more functions that will come in handy. 
