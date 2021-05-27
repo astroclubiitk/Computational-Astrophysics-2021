@@ -108,8 +108,8 @@ Find the assignment for Week-1 in `Assignment` folder. Make sure you able to see
 ```
 .
 ├── Assignment.ipynb
-├── Beehive_data.csv
-└── galaxies.csv
+├── Astrosat_Catalog.csv
+└── Starfish_data.csv
 ```
 
 
