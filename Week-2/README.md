@@ -26,7 +26,7 @@ Find `Astropy.ipynb` file in the directory. It covers three topics to get starte
 - Astropy Coordinates
 
 <p align="center">
-<img src="assets/img2.jpg" width="300">
+<img src="assets/img2.jpg" width="500">
 </p>
 
 
