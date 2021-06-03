@@ -27,8 +27,14 @@ Find `Astropy.ipynb` file in the directory. It covers three topics to get starte
 
 Although we would covering all the necessary jargon and libraraies, you can always look at some resources:
 
-- [Learn.Astropy](https://learn.astropy.org)
+- [Learn Astropy](https://learn.astropy.org)
 - [Astropy Documentation](https://docs.astropy.org/en/stable/)
+
+Recommended Readings:
+
+- [Coordinate Systems in Astronomy](https://adl1995.github.io/an-introduction-to-coordinate-systems-used-in-astronomy.html)
+- [Equinox and Epoch](https://oneau.wordpress.com/2011/10/27/equinox-epoch/)
+- [Crossmatching in Astronomy](https://www.coursera.org/lecture/data-driven-astronomy/what-is-cross-matching-s0plL)
 
 ## Scipy (*Scientific Python*)
 
