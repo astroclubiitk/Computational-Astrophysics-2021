@@ -25,16 +25,22 @@ Find `Astropy.ipynb` file in the directory. It covers three topics to get starte
 - Astropy Units and Quantities
 - Astropy Coordinates
 
-Although we would covering all the necessary jargon and libraraies, you can always look at some resources:
+<p align="center">
+<img src="assets/img2.jpg" width="300">
+</p>
 
-- [Learn Astropy](https://learn.astropy.org)
-- [Astropy Documentation](https://docs.astropy.org/en/stable/)
 
 Recommended Readings:
 
+- [Celestial Sphere](https://www.youtube.com/watch?v=WvXTUcYVXzI)
 - [Coordinate Systems in Astronomy](https://adl1995.github.io/an-introduction-to-coordinate-systems-used-in-astronomy.html)
 - [Equinox and Epoch](https://oneau.wordpress.com/2011/10/27/equinox-epoch/)
 - [Crossmatching in Astronomy](https://www.coursera.org/lecture/data-driven-astronomy/what-is-cross-matching-s0plL)
+
+Although we would covering all the necessary jargon and libraraies, you can always look at some other resources:
+
+- [Learn Astropy](https://learn.astropy.org)
+- [Astropy Documentation](https://docs.astropy.org/en/stable/)
 
 ## Scipy (*Scientific Python*)
 
