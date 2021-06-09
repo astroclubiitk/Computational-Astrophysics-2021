@@ -3,8 +3,8 @@
 ## Table Of Contents
 
 1. [Covered so far](#covered-so-far-%EF%B8%8F)
-2. [Fourier Transforms and Periodograms]()
-3. [Cepheid Variable Stars]()
+2. [Fourier Transforms and Periodograms](#fourier-transforms-and-periodograms)
+3. [Cepheid Variable Stars](#cepheid-variable-stars)
 
 ## Covered so far ⚙️
 
@@ -13,7 +13,7 @@ Last week, we looked at some mathematical tools that are often employed in astro
 ## Fourier Transforms and Periodograms
 
 <p align="center">
-<img src="assets/img1.gif" width="300">
+<img src="assets/img1.gif" width="550">
 </p>
 
 [Periodograms](https://en.wikipedia.org/wiki/Periodogram) are just estimations of the power spectrum. The periodogram that we will use is the [Lomb-Scargle periodogram](https://docs.astropy.org/en/stable/timeseries/lombscargle.html) offered by `astropy.timeseries`. 
@@ -33,7 +33,7 @@ pip install pyaudio
 ## Cepheid Variable Stars
 
 <p align="center">
-<img src="assets/img3.png" width="350">
+<img src="assets/img3.png" width="400">
 </p>
 
 A [Cepheid variable](https://en.wikipedia.org/wiki/Cepheid_variable) is a type of star that pulsates radially, varying in both diameter and temperature and producing changes in brightness with a well-defined stable period and amplitude.
@@ -48,7 +48,7 @@ To learn more about Cepheid Variable stars watch these 2 videos by Khan Academy.
 > Well if you do find a better video you can watch it instead. 
 
 <p align="center">
-<img src="assets/img2.jpg" width="300">
+<img src="assets/img2.jpg" width="400">
 </p>
 
 ## Assignment 📝
