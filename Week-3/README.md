@@ -53,7 +53,7 @@ To learn more about Cepheid Variable stars watch these 2 videos by Khan Academy.
 
 ## Assignment 📝
 
-Would be soon uploaded.
+Find assignment under folder `Assignment`. Deadline: `June 16, 2021`
 
 ### Adios! 👋
 
