@@ -26,8 +26,8 @@ Last week, we looked at some mathematical tools that are often employed in astro
 For some of the modules you will require the `PyAudio` package. To install follow the procedure:
 
 ```bash
-pip install pyaudio
-!pip install audio   # if you are running command in jupyter notebook cell
+pip install pipwin
+pipwin install pyaudio  
 ```
 
 ## Cepheid Variable Stars
