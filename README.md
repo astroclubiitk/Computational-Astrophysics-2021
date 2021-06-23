@@ -7,7 +7,6 @@ This repository would be updated with the project resources, assignments and rel
 .
 ├── README.md
 ├── Week-1
-│   ├── assets
 │   ├── Assignment
 │   │   ├── Assignment.ipynb
 │   │   ├── Astrosat_Catalog.csv
@@ -27,27 +26,34 @@ This repository would be updated with the project resources, assignments and rel
 │   ├── Moons_and_Planets.csv
 │   ├── Numpy.ipynb
 │   ├── Pandas.ipynb
-│   ├── python_basics.ipynb
-│   └── README.md
-├── Week-2
+│   ├── README.md
 │   ├── assets
-│   ├── Astropy.ipynb
+│   └── python_basics.ipynb
+├── Week-2
 │   ├── AstroSat.csv
+│   ├── Astropy.ipynb
 │   ├── Binaries.csv
 │   ├── README.md
-│   └── SciPy.ipynb
-└── Week-3
-    ├── assets
-    ├── Assignment
-    │   ├── Assignment-2.ipynb
-    │   ├── Clusters.csv
-    │   └── GW_data_file.csv
-    ├── OGLE-LMC-CEP-0002.dat
+│   ├── SciPy.ipynb
+│   └── assets
+├── Week-3
+│   ├── Assignment
+│   │   ├── Assignment-2.ipynb
+│   │   ├── Clusters.csv
+│   │   └── GW_data_file.csv
+│   ├── OGLE-LMC-CEP-0002.dat
+│   ├── README.md
+│   ├── Time Series Analysis.ipynb
+│   └── assets
+├── Week-4
+│   ├── FITS_Handling.ipynb
+│   ├── README.md
+│   └── assets
+└── Week-5
     ├── README.md
-    └── Time Series Analysis.ipynb
+    └── astroquery.ipynb
 
-9 directories, 48 files
-
+12 directories, 56 files
 ```
 
 *__Abstract__*: Today a major chunk of astronomical research involves analyzing huge datasets as well as simulating astrophysical processes and thus, computational methods come in handy to an astronomer. The project aims to build a foundation for computational astrophysics. We shall study basic tools such as Astropy and move on to its implementation in time domain astronomy, image processing, spectral analysis among others. The last weeks shall be devoted to applying the techniques to analyze an astrophysical phenomenon or object(s).
