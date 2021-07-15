@@ -5,24 +5,15 @@ This repository would be updated with the project resources, assignments and rel
 
 ```
 .
+├── Final-Project
+│   ├── Astroquery_Gaia.ipynb
+│   ├── Final_Project.pdf
+│   ├── Pleiades_Cluster.csv
+│   └── README.md
 ├── README.md
 ├── Week-1
 │   ├── Assignment
-│   │   ├── Assignment.ipynb
-│   │   ├── Astrosat_Catalog.csv
-│   │   └── Starfish_Data.csv
 │   ├── Matplotlib
-│   │   ├── Canis Major.csv
-│   │   ├── Cassiopeia.csv
-│   │   ├── Cygnus.csv
-│   │   ├── Leo.csv
-│   │   ├── Matplotlib.ipynb
-│   │   ├── Ophiuchus.csv
-│   │   ├── Orion.csv
-│   │   ├── Perseus.csv
-│   │   ├── Scorpius.csv
-│   │   ├── Taurus.csv
-│   │   └── Ursa Major.csv
 │   ├── Moons_and_Planets.csv
 │   ├── Numpy.ipynb
 │   ├── Pandas.ipynb
@@ -38,9 +29,6 @@ This repository would be updated with the project resources, assignments and rel
 │   └── assets
 ├── Week-3
 │   ├── Assignment
-│   │   ├── Assignment-2.ipynb
-│   │   ├── Clusters.csv
-│   │   └── GW_data_file.csv
 │   ├── OGLE-LMC-CEP-0002.dat
 │   ├── README.md
 │   ├── Time Series Analysis.ipynb
@@ -53,7 +41,7 @@ This repository would be updated with the project resources, assignments and rel
     ├── README.md
     └── astroquery.ipynb
 
-12 directories, 56 files
+13 directories, 60 files
 ```
 
 *__Abstract__*: Today a major chunk of astronomical research involves analyzing huge datasets as well as simulating astrophysical processes and thus, computational methods come in handy to an astronomer. The project aims to build a foundation for computational astrophysics. We shall study basic tools such as Astropy and move on to its implementation in time domain astronomy, image processing, spectral analysis among others. The last weeks shall be devoted to applying the techniques to analyze an astrophysical phenomenon or object(s).
